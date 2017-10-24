@@ -1,0 +1,4 @@
+1. Concluímos o projeto com todos os pontos obrigatŕoios e os extras.
+2. Iago Oliveira Lima
+3. Nossa maior dificuldade foi trabalhar com alocação de memória, e ponteiros.
+4. Aproximadamente 7 horas e 30 min.
