@@ -1,0 +1,4 @@
+1. Foi concluído todo o projeto proposto, com exceção do uso da classe TweetGenerator, pois estava dando muitos problemas e decidimos remove-la para continuar a realização do projeto, fora a remoção desta classe, o projeto esta funcionando. Fiz todos os pontos.
+2. Comecei fazendo com o Iago Lima, mas depois de algumas dificuldades, nos juntamos as esquipes do Iury e Rafaella e Assis e Emanuel.
+3. A maior dificuldade foi trabalhar com armazenamento por referência no Repositorys.
+4. 5h30min aproximadamente

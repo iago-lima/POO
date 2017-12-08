@@ -1,0 +1,28 @@
+- Cadastro de produto -> Custo dinâmico
+- Cadastro de mesa
+- Cadastro de clientes
+
+
+Mesas
+	idMesa
+	numCad
+	vector<Clientes>
+	Conta
+
+Clientes
+	idCliente
+	Saldo
+	
+
+Produtos
+	idprod
+	vector<Ingredientes>
+	valor
+
+Ingredientes
+	idIngred
+	valor
+
+Conta
+	valor
+	vector<Produtos>
